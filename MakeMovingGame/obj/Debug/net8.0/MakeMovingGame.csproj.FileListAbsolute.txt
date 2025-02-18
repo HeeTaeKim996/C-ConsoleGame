@@ -1,0 +1,14 @@
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\bin\Debug\net8.0\MakeMovingGame.exe
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\bin\Debug\net8.0\MakeMovingGame.deps.json
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\bin\Debug\net8.0\MakeMovingGame.runtimeconfig.json
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\bin\Debug\net8.0\MakeMovingGame.dll
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\bin\Debug\net8.0\MakeMovingGame.pdb
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.AssemblyInfoInputs.cache
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.AssemblyInfo.cs
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.csproj.CoreCompileInputs.cache
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.dll
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\refint\MakeMovingGame.dll
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.pdb
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.genruntimeconfig.cache
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\ref\MakeMovingGame.dll
