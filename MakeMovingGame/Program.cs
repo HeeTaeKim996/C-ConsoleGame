@@ -18,6 +18,7 @@ namespace makeMovingGame
         {
             while (true)
             {
+                if (isGameOver) break;
 
                 DateTime now = DateTime.Now;
                 if ((now - dateTime_FixedTime).TotalSeconds > 0.02f)
@@ -40,6 +41,7 @@ namespace makeMovingGame
                 }
             }
         }
+        private static bool isGameOver = false;
 
         private static DateTime dateTime_FixedTime;
         private static DateTime dateTime_RenderUpdate;
@@ -58,10 +60,6 @@ namespace makeMovingGame
 
         private static DateTime renderUpdateTime;
 
-        static bool UpdateInputBool = false;
-        static bool RenderUpdateBool = false;
-        static bool MakeScoreTextBool = false;
-        static bool EnemyControllerBool = false;
 
         public static void MakePlace()
         {
@@ -99,10 +97,7 @@ namespace makeMovingGame
      
         public static void InvokeGameOver()
         {
-            RenderUpdateBool = true;
-            UpdateInputBool = true;
-            MakeScoreTextBool = true;
-            EnemyControllerBool = true;
+            isGameOver = true;
         }
 
 

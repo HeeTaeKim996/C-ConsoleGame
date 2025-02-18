@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\scoreclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\scoreclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\renderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\renderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\enemyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\enemyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\playerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\playerclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\enemyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\enemyclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\scoreclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\scoreclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\renderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|solutionrelative:makemovinggame\\renderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58F7579C-0660-44D1-B170-5DB6FDD8B129}|MakeMovingGame\\MakeMovingGame.csproj|c:\\users\\heetae\\source\\repos\\makemovinggame\\makemovinggame\\makemovinggame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,13 +38,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PlayerClass.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\PlayerClass.cs",
               "RelativeDocumentMoniker": "MakeMovingGame\\PlayerClass.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\PlayerClass.cs",
               "RelativeToolTip": "MakeMovingGame\\PlayerClass.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDIAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T02:52:49.048Z",
               "EditorCaption": ""
@@ -52,32 +52,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MakeMovingGame",
+              "Title": "MakeMovingGame.csproj",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\MakeMovingGame.csproj",
               "RelativeDocumentMoniker": "MakeMovingGame\\MakeMovingGame.csproj",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\MakeMovingGame.csproj",
               "RelativeToolTip": "MakeMovingGame\\MakeMovingGame.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T02:36:32.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T02:36:32.011Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "EnemyClass.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\EnemyClass.cs",
               "RelativeDocumentMoniker": "MakeMovingGame\\EnemyClass.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\EnemyClass.cs",
               "RelativeToolTip": "MakeMovingGame\\EnemyClass.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wD4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwEsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T02:48:21.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "RenderClass.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\RenderClass.cs",
               "RelativeDocumentMoniker": "MakeMovingGame\\RenderClass.cs",
@@ -85,12 +84,11 @@
               "RelativeToolTip": "MakeMovingGame\\RenderClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T02:44:01.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T02:44:01.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ScoreClass.cs",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\ScoreClass.cs",
               "RelativeDocumentMoniker": "MakeMovingGame\\ScoreClass.cs",
@@ -98,8 +96,7 @@
               "RelativeToolTip": "MakeMovingGame\\ScoreClass.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T02:36:39.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-18T02:36:39.566Z"
             },
             {
               "$type": "Document",
@@ -109,7 +106,7 @@
               "RelativeDocumentMoniker": "MakeMovingGame\\Program.cs",
               "ToolTip": "C:\\Users\\Heetae\\source\\repos\\MakeMovingGame\\MakeMovingGame\\Program.cs",
               "RelativeToolTip": "MakeMovingGame\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv2AAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T00:10:13.948Z",
               "EditorCaption": ""
