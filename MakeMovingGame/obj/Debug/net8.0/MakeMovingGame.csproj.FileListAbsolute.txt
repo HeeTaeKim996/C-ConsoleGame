@@ -12,3 +12,4 @@ C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\refi
 C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.pdb
 C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.genruntimeconfig.cache
 C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\ref\MakeMovingGame.dll
+C:\Users\Heetae\source\repos\MakeMovingGame\MakeMovingGame\obj\Debug\net8.0\MakeMovingGame.sourcelink.json

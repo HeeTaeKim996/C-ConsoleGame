@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MakeMovingGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2640328049e19b418cfb6017e386ae37db9fa8a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MakeMovingGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MakeMovingGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
